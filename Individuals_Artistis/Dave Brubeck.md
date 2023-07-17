@@ -1,4 +1,4 @@
-#composer #pianist #jazz #artist #musician #American #davebrubeckquartet
+#composer #pianist #jazz #artist #musician #American #davebrubeckquartet #dead 
 Wikipedia: https://en.wikipedia.org/wiki/Dave_Brubeck
 David Warren Brubeck (/ˈbruːbɛk/; December 6, 1920 – December 5, 2012) was an American [[jazz]] pianist and composer. Often regarded as a foremost exponent of [[cool jazz]], Brubeck's work is characterized by unusual time signatures and superimposing contrasting rhythms, meters, and tonalities.
 

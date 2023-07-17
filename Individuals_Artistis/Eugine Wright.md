@@ -1,4 +1,4 @@
-#composer #bassist   #jazz #artist #musician #American #davebrubeckquartet 
+#composer #bassist   #jazz #artist #musician #American #davebrubeckquartet #dead 
 Wikipedia: https://en.wikipedia.org/wiki/Eugene_Wright
 Eugene Joseph Wright (May 29, 1923 – December 30, 2020) was an American [[jazz]] [[bassist]] who was a member of the Dave Brubeck Quartet.
 

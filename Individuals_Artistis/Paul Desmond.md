@@ -1,4 +1,4 @@
-#composer #saxophonist #jazz #artist #musician #American #davebrubeckquartet 
+#composer #saxophonist #jazz #artist #musician #American #davebrubeckquartet #dead 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Paul_Desmond)
 Paul Desmond (born Paul Emil Breitenfeld; November 25, 1924 – May 30, 1977) was an American [[jazz]] alto saxophonist and composer and proponent of [[cool jazz]]. He was a member of the [[The Dave Brubeck Quartet]] and **composed that group's biggest hit, "[[Take Five]]"**.
 Most known for: Take Five [[Jazz Standard]]
