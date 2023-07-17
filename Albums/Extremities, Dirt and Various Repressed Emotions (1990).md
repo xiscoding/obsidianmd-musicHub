@@ -1,0 +1,6 @@
+#killingjoke #album #post-punk 
+Wikipedia: https://en.wikipedia.org/wiki/Extremities,_Dirt_and_Various_Repressed_Emotions
+Extremities, Dirt and Various Repressed Emotions is the eighth studio album by English [[post-punk]] band [[Killing Joke]], released in November 1990 by [[Noise Records]]. After the commercial failure of their previous album Outside the Gate in 1988, singer [[Jaz Coleman]] and guitarist [[Geordie Walker]] were the last remaining members of the group. In December 1988, they recruited new musicians to perform a one-off concert in Porchester and premiered new songs, including early versions of "Extremities" and "The Beautiful Dead". The band didn't have any support of a [[record company]] anymore: [[Virgin Records]] had fired them and their label [[E.G.]] sued them. Coleman stated that it was a very stressful period of time for him and Walker. The new material was more intense, the band performed it live during a US tour in 1989. Extremities, Dirt and Various Repressed Emotions was recorded in 1990 for a German independent label: bassist [[Paul Raven]] was called back before entering into the studio. Drummer [[Martin Atkins]], formerly of [[Public Image Ltd and Ministry]], had joined the band in 1988 and co-composed the songs with Coleman and Walker.
+
+
+![[Killing_joke_Extremeties_Dirt_&_Various_Repressed_Emotions.jpg]]

@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "cf1ed77142e65ea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba8770498c6a7f4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c46fb4573b3716f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bands_Groups/The Dave Brubeck Quartet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6ec9624e6868963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bands_Groups/The Dave Brubeck Quartet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dab25c32be631751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Albums/Time Out (1959).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fff00d25c4a5875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Albums/Jazz- Red Hot And Cool (1955).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7758618d800b8663",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1fad718f6414c55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38fbfa5299a61504",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1e302c3fdd1512a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#American",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e01173706321577",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f7a96ba3362f21c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c3dee12ec43f161",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cda78e30bcc86c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bands_Groups/The Dave Brubeck Quartet.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3f36a929bc9b7f74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bands_Groups/The Dave Brubeck Quartet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3177f10dee39f1ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37576649da581017",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bands_Groups/The Dave Brubeck Quartet.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "38fbfa5299a61504",
+  "lastOpenFiles": [
+    "README.md",
+    "Bands_Groups/The Dave Brubeck Quartet.md",
+    "Albums/Time Out (1959).md",
+    "Albums/Jazz- Red Hot And Cool (1955).md",
+    "Albums/What's THIS For...! (1981).md",
+    "Albums/Killing Joke (1980).md",
+    "Individuals_Artistis/Paul Desmond.md",
+    "images/album_dbqrt_jazzredhot&cool.jpg",
+    "images/album_dbqrt_timeout.jpg",
+    "Individuals_Artistis/Youth.md",
+    "definitions/independent record label.md",
+    "Individuals_Artistis/Dave Brubeck.md",
+    "Individuals_Artistis/Paul Ferguson.md",
+    "Individuals_Artistis/Joe Morello.md",
+    "Individuals_Artistis/Eugine Wright.md",
+    "images/EugineWright1.png",
+    "Individuals_Artistis/Geordie Walker.md",
+    "Individuals_Artistis/Jaz Coleman.md",
+    "images/JoeMorello2.png",
+    "images/JoeMorello.png",
+    "images/PaulDesmond1.png",
+    "images/PaulDesmond.png",
+    "images/DaveBrubeck1.png",
+    "images/EugineWright2.png",
+    "images/band_davebrubeck.png",
+    "Genres/punk.md",
+    "Companies/Virgin Records.md",
+    "definitions/fanzine.md",
+    "Bands_Groups/Killing Joke.md",
+    "Companies/E.G..md",
+    "Companies/Thorn EMI.md",
+    "Albums/Extremities, Dirt and Various Repressed Emotions (1990).md",
+    "images/Whats_this_for...!.jpg.crdownload",
+    "images/Killing_Joke_album.jpg.crdownload",
+    "Companies",
+    "definitions",
+    "Genres/Independent.md",
+    "images/Killing_joke_Extremeties_Dirt_&_Various_Repressed_Emotions.jpg.crdownload",
+    "Albums",
+    "Genres/post-punk.md",
+    "Individuals_Artistis/Fukamachi Jun.md",
+    "Genres",
+    "images/geordiewalker.jpg.crdownload",
+    "images/Geordie_Walker_au_Hellfest_2022.jpg.crdownload",
+    "images/Geordie_Walker_Ilosaarirock_2009.jpg.crdownload",
+    "Pasted image 20230717111335.jpg.md"
+  ]
+}

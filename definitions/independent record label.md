@@ -1,0 +1,5 @@
+#definition #recordlabel 
+
+An independent record label (or **indie label**) is a record label that operates without the funding or distribution of [[major record labels]]; they are a type of small- to medium-sized enterprise, or SME. The labels and artists are often represented by trade associations in their country or region, which in turn are represented by the international trade body, the Worldwide Independent Network (WIN).
+
+Many of the labels started as producers and distributors of specific genres of music, such as [[jazz]] music, or represent something new and non-mainstream, such as [[Elvis Presley]] in the early days. Indies release [[rock]], [[soul]], [[R&B]], [[jazz]], [[blues]], [[gospel]], [[reggae]], [[hip hop]], and [[world music]]. Music appearing on indie labels is often referred to as [[Independent]] music, or more specifically by genre, such as indie hip-hop.
