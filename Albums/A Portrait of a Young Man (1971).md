@@ -1,6 +1,6 @@
 
-#junfukamachi #jazz #album  
-Jun Fukamachi - Portrait of a Young Man is the 1971 debut album by Japanese jazz pianist and composer Jun Fukamachi. The album showcases Fukamachi's piano playing and compositional skills, and is popular not only with jazz fans, but also with fans of rock and pop.
+#junfukamachi #jazz #album  #jazzfusion 
+Jun Fukamachi - Portrait of a Young Man is the 1971 debut album by Japanese jazz pianist and composer Jun Fukamachi. The album showcases Fukamachi's piano playing and compositional skills, and is popular not only with [[jazz]] fans, but also with fans of [[rock]] and [[pop]].
 
 The album's distinguishing feature is Fukamachi's unique melodies and harmonies. Fukamachi's melodies are simple, beautiful, and yet somehow nostalgic and melancholic. Additionally, Fukamachi's harmonies have a complex and difficult impression, but they become naturally comfortable as you listen to them.
 

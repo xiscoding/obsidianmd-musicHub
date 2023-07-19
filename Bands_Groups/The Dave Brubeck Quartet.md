@@ -5,7 +5,7 @@
 [[Dave Brubeck]] (pianist) (1920-2012)
 [[Paul Desmond]] (saxophone) (1924 - 1977) 
 [[Joe Morello]] (drums) (1928 - 2011) 
-[[Eugine Wright]] (bass) (1923 - 2020)
+[[Individuals_Artistis/Eugene Wright]] (bass) (1923 - 2020)
 
 
 Discography (incomplete): 

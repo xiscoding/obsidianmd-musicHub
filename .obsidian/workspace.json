@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fff00d25c4a5875",
+            "id": "c63bbfa1bae5d20d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,27 +16,55 @@
             }
           },
           {
-            "id": "46c5d32828796c01",
+            "id": "77d82a5c3fbbc382",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Individuals_Artistis/Deadmau5.md",
+                "file": "Mirror of My Mind (1979).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "432464ccad4aebea",
+            "id": "eea7c3a193054e47",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Individuals_Artistis/Ryo Kawasaki.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "264166260548302c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jazz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f00ac33368dd3a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genres/post-punk.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#American",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "jazz.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "jazz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "jazz.md"
+              }
             }
           }
         ],
@@ -161,53 +193,53 @@
       "random-note:Open random note": false
     }
   },
-  "active": "38fbfa5299a61504",
+  "active": "264166260548302c",
   "lastOpenFiles": [
+    "Mirror of My Mind (1979).md",
+    "Individuals_Artistis/Ryo Kawasaki.md",
+    "jazz.md",
+    "Genres/post-punk.md",
+    "Genres/punk.md",
+    "Albums/Juice (1976).md",
+    "images/album_ryokwsk_mirmind1.jpg",
+    "images/album_ryokwsk_mirmind1.jpg.crdownload",
+    "images/album_ryokwsk_mirmind.jpg",
+    "images/album_ryokwsk_mirmind.jpg.crdownload",
+    "Genres/jazz fusion.md",
+    "Albums/Quark (1980).md",
+    "Albums/A Portrait of a Young Man (1971).md",
+    "images/album_ryokwsk_juice.jpg1.jpg",
+    "images/album_ryokwsk_juice.jpg1.jpg.crdownload",
+    "images/album_ryokwsk_juice.jpg",
+    "images/album_ryokwsk_juice.jpg.crdownload",
+    "Individuals_Artistis/Fukamachi Jun.md",
+    "Bands_Groups/The Dave Brubeck Quartet.md",
+    "Albums/Jazz- Red Hot And Cool (1955).md",
+    "Albums/Selected Ambient Works 85–92 (1992).md",
+    "images/ryokawasaki.jpeg",
+    "images/ryokawasaki.jpeg.crdownload",
+    "images/Ryo-Kawasaki-by-Y.-Yoneda-696x463.jpg",
+    "images/Ryo-Kawasaki-by-Y.-Yoneda-696x463.jpg.crdownload",
+    "images/album_fukjun_quark.webp",
+    "images/album_fukjun_quark.webp.crdownload",
+    "Albums/What's THIS For...! (1981).md",
+    "Labels/Polydor Records.md",
+    "Albums/Time Out (1959).md",
+    "Individuals_Artistis/Paul Desmond.md",
+    "Individuals_Artistis/Eugene Wright.md",
+    "Eugene Wright.md",
+    "Individuals_Artistis/Deadmau5.md",
+    "Albums/Sgt. Pepper's Lonely Hearts Club Band (1977).md",
     "Individuals_Artistis/Aphex Twin.md",
     "Labels/Apollo Records.md",
     "Labels/R&S Records.md",
-    "Albums/Selected Ambient Works 85–92 (1992).md",
     "images/album_aphxtwn_selam8592.png",
     "images/album_aphxtwn_selam8592.png.crdownload",
-    "Individuals_Artistis/Deadmau5.md",
     "Labels/E.G..md",
     "images/richard-d-james-album-aphex-twin-medium-square.jpg",
     "images/richard-d-james-album-aphex-twin-medium-square.jpg.crdownload",
     "images/portrait_aphextwin.jpeg",
     "images/portrait_aphextwin.jpeg.crdownload",
-    "Labels/Mau5trap.md",
-    "Genres/electronic music.md",
-    "Genres/electronic dance music.md",
-    "Genres/EDM.md",
-    "images/dmau5.jpg",
-    "images/dmau5.jpg.crdownload",
-    "images/Deadmau5_d_(cropped).jpg",
-    "Individuals_Artistis/Paul Ferguson.md",
-    "Albums/Time Out (1959).md",
-    "Genres/punk.md",
-    "Genres/post-punk.md",
-    "Genres/Independent.md",
-    "Albums/Get Scraped (2005).md",
-    "images/album_dmau5_getScraped.jpg",
-    "Labels/Virgin Records.md",
-    "Albums/A Portrait of a Young Man (1971).md",
-    "Individuals_Artistis/Eugine Wright.md",
-    "Individuals_Artistis/Joe Morello.md",
-    "Individuals_Artistis/Paul Desmond.md",
-    "Individuals_Artistis/Dave Brubeck.md",
-    "Individuals_Artistis/Fukamachi Jun.md",
-    "Albums/Sgt. Pepper's Lonely Hearts Club Band (1977).md",
-    "images/junfukamachi1.png",
-    "images/junfukamachi.png",
-    "images/jukfukamachi.png",
-    "images/Screenshot_20230711-090810.png",
-    "Albums/Jazz- Red Hot And Cool (1955).md",
-    "Bands_Groups/The Dave Brubeck Quartet.md",
-    "images/Whats_this_for...!.jpg.crdownload",
-    "images/Killing_Joke_album.jpg.crdownload",
-    "Labels",
-    "definitions",
-    "images/Killing_joke_Extremeties_Dirt_&_Various_Repressed_Emotions.jpg.crdownload",
-    "Albums"
+    "Labels/Mau5trap.md"
   ]
 }
