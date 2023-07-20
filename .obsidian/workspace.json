@@ -11,9 +11,53 @@
             "id": "90cca2891ee03b4b",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "cad07b1287db0514",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Roger Bunn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "784cb3b324819260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Usher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91b3b5f51af2b251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R&B.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c62144d732b8ba74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Piece of Mind (1970).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roger Bunn.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roger Bunn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Roger Bunn.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,14 +190,17 @@
   },
   "active": "90cca2891ee03b4b",
   "lastOpenFiles": [
+    "R&B.md",
+    "Usher.md",
     "Roger Bunn.md",
     "rock.md",
+    "Piece of Mind (1970).md",
+    "Bobby Timmons Trio.md",
+    "Bobby Timmons.md",
     "Genres/post-punk.md",
     "Genres/jazz.md",
     "Albums/A Portrait of a Young Man (1971).md",
     "Bands_Groups/Killing Joke.md",
-    "Bobby Timmons.md",
-    "Bobby Timmons Trio.md",
     "Bands_Groups/The Dave Brubeck Quartet.md",
     "README.md",
     "Individuals_Artistis/Ryo Kawasaki.md",
@@ -187,9 +230,6 @@
     "Labels/Polydor Records.md",
     "Albums/Time Out (1959).md",
     "Individuals_Artistis/Paul Desmond.md",
-    "Individuals_Artistis/Eugene Wright.md",
-    "Eugene Wright.md",
-    "Individuals_Artistis/Deadmau5.md",
     "images/album_aphxtwn_selam8592.png",
     "images/album_aphxtwn_selam8592.png.crdownload",
     "images/richard-d-james-album-aphex-twin-medium-square.jpg",
