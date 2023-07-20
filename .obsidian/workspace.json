@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ba8770498c6a7f4a",
+        "id": "80ab039bb6a306a8",
         "type": "tabs",
         "children": [
           {
-            "id": "c63bbfa1bae5d20d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "77d82a5c3fbbc382",
+            "id": "90cca2891ee03b4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mirror of My Mind (1979).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eea7c3a193054e47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Individuals_Artistis/Ryo Kawasaki.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "264166260548302c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jazz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f00ac33368dd3a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genres/post-punk.md",
+                "file": "Roger Bunn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jazz.md",
+                "file": "Roger Bunn.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jazz.md",
+                "file": "Roger Bunn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jazz.md"
+                "file": "Roger Bunn.md"
               }
             }
           }
@@ -193,12 +148,20 @@
       "random-note:Open random note": false
     }
   },
-  "active": "264166260548302c",
+  "active": "90cca2891ee03b4b",
   "lastOpenFiles": [
-    "Mirror of My Mind (1979).md",
-    "Individuals_Artistis/Ryo Kawasaki.md",
-    "jazz.md",
+    "Roger Bunn.md",
+    "rock.md",
     "Genres/post-punk.md",
+    "Genres/jazz.md",
+    "Albums/A Portrait of a Young Man (1971).md",
+    "Bands_Groups/Killing Joke.md",
+    "Bobby Timmons.md",
+    "Bobby Timmons Trio.md",
+    "Bands_Groups/The Dave Brubeck Quartet.md",
+    "README.md",
+    "Individuals_Artistis/Ryo Kawasaki.md",
+    "Albums/Mirror of My Mind (1979).md",
     "Genres/punk.md",
     "Albums/Juice (1976).md",
     "images/album_ryokwsk_mirmind1.jpg",
@@ -207,13 +170,11 @@
     "images/album_ryokwsk_mirmind.jpg.crdownload",
     "Genres/jazz fusion.md",
     "Albums/Quark (1980).md",
-    "Albums/A Portrait of a Young Man (1971).md",
     "images/album_ryokwsk_juice.jpg1.jpg",
     "images/album_ryokwsk_juice.jpg1.jpg.crdownload",
     "images/album_ryokwsk_juice.jpg",
     "images/album_ryokwsk_juice.jpg.crdownload",
     "Individuals_Artistis/Fukamachi Jun.md",
-    "Bands_Groups/The Dave Brubeck Quartet.md",
     "Albums/Jazz- Red Hot And Cool (1955).md",
     "Albums/Selected Ambient Works 85–92 (1992).md",
     "images/ryokawasaki.jpeg",
@@ -229,17 +190,11 @@
     "Individuals_Artistis/Eugene Wright.md",
     "Eugene Wright.md",
     "Individuals_Artistis/Deadmau5.md",
-    "Albums/Sgt. Pepper's Lonely Hearts Club Band (1977).md",
-    "Individuals_Artistis/Aphex Twin.md",
-    "Labels/Apollo Records.md",
-    "Labels/R&S Records.md",
     "images/album_aphxtwn_selam8592.png",
     "images/album_aphxtwn_selam8592.png.crdownload",
-    "Labels/E.G..md",
     "images/richard-d-james-album-aphex-twin-medium-square.jpg",
     "images/richard-d-james-album-aphex-twin-medium-square.jpg.crdownload",
     "images/portrait_aphextwin.jpeg",
-    "images/portrait_aphextwin.jpeg.crdownload",
-    "Labels/Mau5trap.md"
+    "images/portrait_aphextwin.jpeg.crdownload"
   ]
 }
