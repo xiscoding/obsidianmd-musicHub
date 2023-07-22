@@ -1,0 +1,11 @@
+#artist #musician #reggae #singer #Jamaican 
+
+Source: [discogs](https://www.discogs.com/artist/65317-Johnny-Osbourne)
+Errol Osbourne aka Johnny Osbourne, born in 1948 in Jones Town, Kingston, Jamaica, is a popular reggae and dancehall singer, who rose to success in the late 1970s and mid-1980s. Osbourne is a past student of the famed [[Alpha Boys School]] in Kingston where he learn trumpet and chant.
+He began singing with [[The Wild Cats]] and made his first recordings for Clement "Coxsone" Dodd, then quickly went solo for [[Winston Riley]] and [[The Sensations]], releasing his first album or compilation in 1970 "Come Back Darling" and his second in 1973 "Ready Or Not". In 1977, he left for Canada, where he recorded a number of tracks with Ishan People. He returned to Jamaica the following year, where he recorded several hits for Studio One and his third album in 1979 (Truths And Rights), which was one of the best of the period !
+From then on, he released a series of albums, crossing the dancehall period without a hitch with many recordings well into the 2000's...
+And still going strong in the 2020's !!
+Respect to the man !!!
+
+Source: [allmusic](https://www.allmusic.com/artist/johnny-osbourne-mn0000248916/biography)
+Osbourne debuted in 1969 as lead vocalist of the Wildcats, recording a session at Coxsone Dodd's Studio One that spawned his debut single, "All I Have Is Love." After recording 1969's Come Back Darling (as leader of the vocal group aptly named [[the Sensations]]), he emigrated to Toronto, where he became lead vocalist for a group called [[Ishan People]], and recorded two albums with them before returning to Jamaica in 1979. Shortly after returning, he recorded "Forgive Them" and "Jealousy, Heartache and Pain" as well as the stunning album, Truths and Rights. Between 1980 and 1982, a glut of material was released, including Fally Lover, Warrior, Innah Disco Style, and Never Stop Fighting. He scored a string of hits through the 80s, including "Water Pumping," "Good Time Rock," and "Rude Boy Skank," the latter pair from the Bobby Digital production [[Rougher Than Them (1989)]].

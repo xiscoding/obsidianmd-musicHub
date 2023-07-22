@@ -11,59 +11,24 @@
             "id": "90cca2891ee03b4b",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f84aa8bb4257d8fb",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "cad07b1287db0514",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roger Bunn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "784cb3b324819260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Usher.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91b3b5f51af2b251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R&B.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c62144d732b8ba74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Piece of Mind (1970).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#artist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,10 +153,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "90cca2891ee03b4b",
+  "active": "f84aa8bb4257d8fb",
   "lastOpenFiles": [
-    "R&B.md",
+    "Lion Youth.md",
+    "Johnny Osbourne.md",
+    "Rougher Than Them (1989).md",
+    "README.md",
     "Usher.md",
+    "R&B.md",
     "Roger Bunn.md",
     "rock.md",
     "Piece of Mind (1970).md",
@@ -202,7 +171,6 @@
     "Albums/A Portrait of a Young Man (1971).md",
     "Bands_Groups/Killing Joke.md",
     "Bands_Groups/The Dave Brubeck Quartet.md",
-    "README.md",
     "Individuals_Artistis/Ryo Kawasaki.md",
     "Albums/Mirror of My Mind (1979).md",
     "Genres/punk.md",
@@ -227,9 +195,6 @@
     "images/album_fukjun_quark.webp",
     "images/album_fukjun_quark.webp.crdownload",
     "Albums/What's THIS For...! (1981).md",
-    "Labels/Polydor Records.md",
-    "Albums/Time Out (1959).md",
-    "Individuals_Artistis/Paul Desmond.md",
     "images/album_aphxtwn_selam8592.png",
     "images/album_aphxtwn_selam8592.png.crdownload",
     "images/richard-d-james-album-aphex-twin-medium-square.jpg",
