@@ -1,0 +1,5 @@
+#album #VanDykeParks #bluegrass #ragtime 
+
+[[Van Dyke Parks]] moved on from the [[Beach Boys]]' abortive SMiLE sessions to record his own solo debut, Song Cycle, an audacious and occasionally brilliant attempt to mount a fully orchestrated, classically minded work within the context of contemporary pop. As indicated by its title, Song Cycle is a thematically coherent work, one which attempts to embrace the breadth of American popular music; [[bluegrass]], [[ragtime]], show tunes -- nothing escapes Parks' radar, and the sheer eclecticism and individualism of his work is remarkable. Opening with "Vine Street," authored by [[Randy Newman]] (another pop composer with serious classical aspirations), the album is both forward-thinking and backward-minded, a collision of bygone musical styles with the progressive sensibilities of the late '60s; while occasionally overambitious and at times insufferably coy, it's nevertheless a one-of-a-kind record, the product of true inspiration.
+
+![[album_vndk_songcycle.png]]

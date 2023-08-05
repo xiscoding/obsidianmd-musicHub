@@ -23,8 +23,12 @@
             "id": "f84aa8bb4257d8fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Albums/Song Cycle (1967).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -57,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#artist",
+                "query": "tag:#junfukamachi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Albums/Song Cycle (1967).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Albums/Song Cycle (1967).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Albums/Song Cycle (1967).md"
+              }
             }
           }
         ],
@@ -155,51 +163,50 @@
   },
   "active": "f84aa8bb4257d8fb",
   "lastOpenFiles": [
+    "Albums/Piece of Mind (1970).md",
+    "Albums/Song Cycle (1967).md",
+    "Van Dyke Parks.md",
+    "images/album_vndk_songcycle.png",
+    "images/album_vndk_songcycle.png.crdownload",
+    "images/dicksuit.jpg",
+    "images/dicksuit.jpg.crdownload",
+    "images/dickpiano.jpg",
+    "images/dickpiano.jpg.crdownload",
+    "images/dickvandyke.jpg",
+    "images/dickvandyke.jpg.crdownload",
+    "images/album_rgerbunn_pcemindback.jpg",
+    "images/album_rgerbunn_pcemindback.jpg.crdownload",
+    "images/album_rgrbunn_pieceomind.jpg",
+    "images/album_rgrbunn_pieceomind.jpg.crdownload",
+    "Albums/Down To Earth (2018).md",
+    "Albums/Quark (1980).md",
+    "Phoniks.md",
+    "Individuals_Artistis/Jun Fukamachi.md",
+    "Albums/A Portrait of a Young Man (1971).md",
+    "Jun Fukamachi.md",
+    "Albums/Mushroom Jazz, vol. 4 (2002).md",
+    "Albums/Mirror of My Mind (1979).md",
+    "Albums/Killing Joke (1980).md",
+    "Albums/Juice (1976).md",
+    "Albums/Jazz- Red Hot And Cool (1955).md",
+    "Albums/Get Scraped (2005).md",
+    "Albums/Extremities, Dirt and Various Repressed Emotions (1990).md",
+    "Rougher Than Them (1989).md",
+    "images/album_phoniksdte.jpg",
+    "images/album_phoniksdte.jpg.crdownload",
+    "images/phoniksguy.jpg",
+    "images/phoniksguy.jpg.crdownload",
+    "images/phoniksdj.jpg",
+    "images/phoniksdj.jpg.crdownload",
+    "images/phoniks.jpg",
+    "images/phoniks.jpg.crdownload",
+    "Mark Farina.md",
     "Lion Youth.md",
     "Johnny Osbourne.md",
-    "Rougher Than Them (1989).md",
     "README.md",
     "Usher.md",
     "R&B.md",
     "Roger Bunn.md",
-    "rock.md",
-    "Piece of Mind (1970).md",
-    "Bobby Timmons Trio.md",
-    "Bobby Timmons.md",
-    "Genres/post-punk.md",
-    "Genres/jazz.md",
-    "Albums/A Portrait of a Young Man (1971).md",
-    "Bands_Groups/Killing Joke.md",
-    "Bands_Groups/The Dave Brubeck Quartet.md",
-    "Individuals_Artistis/Ryo Kawasaki.md",
-    "Albums/Mirror of My Mind (1979).md",
-    "Genres/punk.md",
-    "Albums/Juice (1976).md",
-    "images/album_ryokwsk_mirmind1.jpg",
-    "images/album_ryokwsk_mirmind1.jpg.crdownload",
-    "images/album_ryokwsk_mirmind.jpg",
-    "images/album_ryokwsk_mirmind.jpg.crdownload",
-    "Genres/jazz fusion.md",
-    "Albums/Quark (1980).md",
-    "images/album_ryokwsk_juice.jpg1.jpg",
-    "images/album_ryokwsk_juice.jpg1.jpg.crdownload",
-    "images/album_ryokwsk_juice.jpg",
-    "images/album_ryokwsk_juice.jpg.crdownload",
-    "Individuals_Artistis/Fukamachi Jun.md",
-    "Albums/Jazz- Red Hot And Cool (1955).md",
-    "Albums/Selected Ambient Works 85–92 (1992).md",
-    "images/ryokawasaki.jpeg",
-    "images/ryokawasaki.jpeg.crdownload",
-    "images/Ryo-Kawasaki-by-Y.-Yoneda-696x463.jpg",
-    "images/Ryo-Kawasaki-by-Y.-Yoneda-696x463.jpg.crdownload",
-    "images/album_fukjun_quark.webp",
-    "images/album_fukjun_quark.webp.crdownload",
-    "Albums/What's THIS For...! (1981).md",
-    "images/album_aphxtwn_selam8592.png",
-    "images/album_aphxtwn_selam8592.png.crdownload",
-    "images/richard-d-james-album-aphex-twin-medium-square.jpg",
-    "images/richard-d-james-album-aphex-twin-medium-square.jpg.crdownload",
-    "images/portrait_aphextwin.jpeg",
-    "images/portrait_aphextwin.jpeg.crdownload"
+    "rock.md"
   ]
 }
